@@ -15,10 +15,10 @@
 
 <h3 align="center">Me retrouver sur les réseaux sociaux :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/salimbenfarhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salimbenfarhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/salimagency" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salimbenfarhat" height="30" width="40" /></a>
 <a href="https://fb.com/iamsalimbenfarhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamsalimbenfarhat" height="30" width="40" /></a>
 <a href="https://instagram.com/salim.benfarhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salim.benfarhat" height="30" width="40" /></a>
-<a href="https://medium.com/salimbenfarhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salimbenfarhat" height="30" width="40" /></a>
+<a href="https://medium.com/@salimbenfarhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salimbenfarhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Stack technique :</h3>
