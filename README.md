@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Salim Benfarhat</h1>
 <h3 align="center">Freelance dans le Digital. Je propose plusieurs services au sein de mon agence digital <a href="https://salim.agency" target="blank">SALIM.AGENCY</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salimbenfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="salimbenfarhat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salimbenfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="salimbenfarhat" /> </p>
 
 - 🔭 Je travaille actuellement sur le projet [H2OCOonnex](https://www.h2oconnex.com) avec [Salim Lalam](https://github.com/lilimsa)
 
