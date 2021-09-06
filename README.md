@@ -23,17 +23,17 @@ A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose p
 - URLPRO (en cours...)
 
 💬 Potentiellement intéressé par toutes sugegstions de collaborations. Et encore plus dans le domaine de la blockchain, crypto, DeFi.   
-📫 **hello@salim.link**
-
-🤑 Espace Sposnorisé :
-Pour installer SwissBorg (et gagner un ticket à gratter de 1 à 100€) :
-https://salim.click/swissborg
-Pour installer l'application Crypto.com et gagner 25$ en CRO :
-https://salim.click/cryptocom
-Pour créer un Compte Binance et gagner des remises sur les frais (10%) :
-https://salim.click/binance
+📫 **hello@salim.link**  
+  
+🤑 Espace Sposnorisé :  
+Pour installer SwissBorg (et gagner un ticket à gratter de 1 à 100€) :  
+https://salim.click/swissborg  
+Pour installer l'application Crypto.com et gagner 25$ en CRO :  
+https://salim.click/cryptocom  
+Pour créer un Compte Binance et gagner des remises sur les frais (10%) :  
+https://salim.click/binance  
 
 💰 Faire une donation :
-Wallet BTC : xxx
-Wallet ETH : xxx
-Wallet CRO : xxx
+Wallet BTC : xxx  
+Wallet ETH : xxx  
+Wallet CRO : xxx  
