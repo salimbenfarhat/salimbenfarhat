@@ -8,7 +8,7 @@ Je bosse principalement avec ces technos :
 - [BookmarksManager](https://github.com/salimbenfarhat/BookmarksManager)
 - [SBFramework](https://github.com/salimbenfarhat/SBFramework)
 
-A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose plusieurs services allant de la mise en place d'une dientité visuelle à la réalisation d'un site web. Ma C2VD (Carte de Visite Digitale) : https://salim.link
+A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose plusieurs services allant de la mise en place d'une dientité visuelle à la réalisation d'un site web. Ma C2VD (Carte de Visite Digitale) : [SALIM.LINK](https://salim.link)
 
 ✨ Mes Projets :
 - SALIM.CLICK (en cours...)
