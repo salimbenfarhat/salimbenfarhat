@@ -34,6 +34,7 @@ A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose p
   https://salim.click/binance  
 
 💰 Faire une donation :  
-- Wallet BTC : xxx  
-- Wallet ETH : xxx  
-- Wallet CRO : xxx  
+- Wallet BTC : bc1qslzgv5pqm4u9l4gj2axgjqsl84jgjdw3klscwj
+- Wallet ETH : 0x836e6f534795E30f22369F3F664B807A76BCaC85
+- Wallet SOL : J4jJ7hb2csfmLHtUNMuk5MMgrcy4Fw8fHm2BrrwqxzFX
+- Wallet DOGE : DQoonK2Dkw3QkDJpdZ4JWY9y6VVme2sWYn
