@@ -33,7 +33,7 @@ https://salim.click/cryptocom
 Pour créer un Compte Binance et gagner des remises sur les frais (10%) :  
 https://salim.click/binance  
 
-💰 Faire une donation :
+💰 Faire une donation :  
 Wallet BTC : xxx  
 Wallet ETH : xxx  
 Wallet CRO : xxx  
