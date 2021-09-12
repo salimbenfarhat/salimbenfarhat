@@ -27,7 +27,7 @@ A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose p
 💬 Potentiellement intéressé par toutes sugegstions de collaborations. Et encore plus dans le domaine de la blockchain, crypto, DeFi.   
 📫 **hello@salim.link**  
   
-🤑 Espace Sposnorisé :  
+🤑 Espace Sponsorisé :  
 - Pour installer SwissBorg (et gagner un ticket à gratter de 1 à 100€) :  
   https://salim.click/swissborg  
 - Pour installer l'application Crypto.com et gagner 25$ en CRO :  
