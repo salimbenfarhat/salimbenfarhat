@@ -1,7 +1,7 @@
 Hello 🤙  
-Passioné de Tech & Finance. J'apporte des solutions pour digitaliser vos business.  
+Passionné de Tech & Finance. J'apporte des solutions pour digitaliser vos business.  
 Je bosse principalement avec ces technos : 
-- STACK LAMP(Linux Apache Mysql PHP)
+- STACK LAMP(Linux Apache MySql PHP)
 - FRAMEWORKS PHP (Laravel et SBFramework)
 
 🛠 Mes Travaux :
@@ -10,7 +10,7 @@ Je bosse principalement avec ces technos :
 - [BookmarksManager](https://github.com/salimbenfarhat/BookmarksManager)
 - [ShortlinksManager](https://github.com/salimbenfarhat/ShortlinksManager)
 
-A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose plusieurs services allant de la mise en place d'une dientité visuelle à la réalisation d'un site web. Ma C2VD (Carte de Visite Digitale) : [SALIM.LINK](https://salim.link)
+A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose plusieurs services allant de la mise en place d'une identité visuelle à la réalisation d'un site web. Ma C2VD (Carte de Visite Digitale) : [SALIM.LINK](https://salim.link)
 
 ✨ Mes Projets :
 - SALIM.CLICK (en cours...)
@@ -24,7 +24,7 @@ A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose p
 - COMPARATO (en cours...)
 - URLPRO (en cours...)
 
-💬 Potentiellement intéressé par toutes sugegstions de collaborations. Et encore plus dans le domaine de la blockchain, crypto, DeFi.   
+💬 Potentiellement intéressé par toutes suggestions de collaborations. Et encore plus dans le domaine de la blockchain(Crypto, DeFi, Dex, Dapps, NFT, Smart Contracts).   
 📫 **hello@salim.link**  
   
 🤑 Espace Sponsorisé :  
