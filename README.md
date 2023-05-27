@@ -6,7 +6,9 @@ Je suis un développeur web passionné par la Tech et la Finance. Je conçois de
 - **Frameworks PHP** (Symfony, Laravel et SBFramework)
 
 🛠 Mes Travaux :
-- **[SBFramework](https://github.com/salimbenfarhat/SBFramework)** (Mon Framework Personnel en cours de développement)
+- **[SB-Framework](https://github.com/salimbenfarhat/SB-Framework)** (Mon Framework Personnel **[en cours de développement]**)
+- **[SB-Pwa](https://github.com/salimbenfarhat/SB-Pwa)** (Basic Template Pwa)
+- **[SB-ShortlyUrl](https://github.com/salimbenfarhat/SB-ShortlyUrl)** (CRUD Raccourcisseurl URL sous Laravel 5.6)
 
 Grâce à mon agence digitale MARSWEB, je vous offre plusieurs services pour renforcer votre présence en ligne, de la création d'une identité visuelle à la réalisation d'un site web. Découvrez ma carte de visite digitale : SALIM.LINK
 
