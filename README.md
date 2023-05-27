@@ -1,42 +1,34 @@
-Hello 🤙  
-Passionné de Tech & Finance. J'apporte des solutions pour digitaliser vos business.  
-Je bosse principalement avec ces technos : 
-- STACK LAMP(Linux Apache MySql PHP)
-- FRAMEWORKS PHP (Laravel et SBFramework)
+# Hello 👋  
+Je suis un développeur web passionné par la Tech et la Finance. Je conçois des produits digitaux qui ont un impact positif grâce à leur utilité ou leur caractère innovant. Je vous propose des solutions sur mesure pour digitaliser vos activités.
+
+🚀 Je travaille principalement avec ces technologies :
+- **Stack LAMP** (Linux, Apache, MySQL, PHP)
+- **Frameworks PHP** (Symfony, Laravel et SBFramework)
 
 🛠 Mes Travaux :
-- [SBFramework](https://github.com/salimbenfarhat/SBFramework)
-- [SBFBlog](https://github.com/salimbenfarhat/SBFBlog)
-- [BookmarksManager](https://github.com/salimbenfarhat/BookmarksManager)
-- [ShortlinksManager](https://github.com/salimbenfarhat/ShortlinksManager)
+- **[SBFramework](https://github.com/salimbenfarhat/SBFramework)** (Mon Framework Personnel en cours de développement)
 
-A travers mon agence digitale [SALIM.AGENCY](https://salim.agency), je propose plusieurs services allant de la mise en place d'une identité visuelle à la réalisation d'un site web. Ma C2VD (Carte de Visite Digitale) : [SALIM.LINK](https://salim.link)
+Grâce à mon agence digitale MARSWEB, je vous offre plusieurs services pour renforcer votre présence en ligne, de la création d'une identité visuelle à la réalisation d'un site web. Découvrez ma carte de visite digitale : SALIM.LINK
 
 ✨ Mes Projets :
-- SALIM.CLICK (en cours...)
-- HODL3R (en cours...)
-- H2ODEMO (en cours...)
-- H2OCONNEX (en cours...)
-- H2OINNOV (en cours...)
-- PIGMENTIS (en cours...)
-- DE4LS (en cours...)
-- TRIBALAND (en cours...)
-- COMPARATO (en cours...)
-- URLPRO (en cours...)
 
-💬 Potentiellement intéressé par toutes suggestions de collaborations. Et encore plus dans le domaine de la blockchain(Crypto, DeFi, Dex, Dapps, NFT, Smart Contracts).   
-📫 **hello@salim.link**  
-  
-🤑 Espace Sponsorisé :  
-- Pour installer SwissBorg (et gagner un ticket à gratter de 1 à 100€) :  
-  https://salim.click/swissborg  
-- Pour installer l'application Crypto.com et gagner 25$ en CRO :  
-  https://salim.click/cryptocom  
-- Pour créer un Compte Binance et gagner des remises sur les frais (10%) :  
-  https://salim.click/binance  
+- **[SBSB.FR](https://sbsb.fr)** (Mon Raccourcisseur URL Personnel)  
+- **[HODL3R](https://hodl3r.com)** (Mon Blog)
 
-💰 Faire une donation :  
-- Wallet BTC : **bc1qslzgv5pqm4u9l4gj2axgjqsl84jgjdw3klscwj**
-- Wallet ETH : **0x836e6f534795E30f22369F3F664B807A76BCaC85**
-- Wallet SOL : **J4jJ7hb2csfmLHtUNMuk5MMgrcy4Fw8fHm2BrrwqxzFX**
-- Wallet DOGE : **DQoonK2Dkw3QkDJpdZ4JWY9y6VVme2sWYn**
+💬 Je suis ouvert à toute suggestion de collaboration, surtout dans les domaines du Web3, de la Supply Chain, de l'IA ou de l'IoT.
+
+📫 Me Contacter :
+- **hello@salim.link**
+
+👉 Follow Me :
+
+[![Instagram Badge](https://img.shields.io/badge/-instagram-0077B5?style=flat-square&logo=instagram&logoColor=white&link=https://salim.link/instagram)](https://salim.link/instagram)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://salim.link/linkedin)](https://salim.link/linkedin)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-0077B5?style=flat-square&logo=facebook&logoColor=white&link=https://salim.link/facebook)](https://salim.link/facebook)
+[![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-0077B5?style=flat-square&logo=whatsapp&logoColor=white&link=https://salim.link/whatsapp)](https://salim.link/whatsapp)
+[![TikTok Badge](https://img.shields.io/badge/-tiktok-0077B5?style=flat-square&logo=tiktok&logoColor=white&link=https://salim.link/tiktok)](https://salim.link/tiktok)
+
+
+💰 Faire une donation :
+
+[![Paypal Badge](https://img.shields.io/badge/-paypal-0077B5?style=flat-square&logo=paypal&logoColor=white&link=https://salim.link/paypal)](https://salim.link/paypal)
