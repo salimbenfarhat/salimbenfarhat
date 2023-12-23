@@ -23,11 +23,11 @@ Grâce à mon agence digitale **[MARSWEB](https://marsweb.fr)**, je vous offre p
 - **[SBSB.FR](https://sbsb.fr)** (Mon Raccourcisseur URL Personnel)
 - **[HODL3R](https://hodl3r.com)** (Mon Blog)
 
-💬 Je suis ouvert à toute suggestion de collaboration, n'hesitez pas à me contacter sur **[collab@salim.link](collab@salim.link)**.
+💬 Je suis ouvert à toute suggestion de collaboration, n'hesitez pas à me contacter sur **[collab@salim.link](mailto:collab@salim.link)**.
 
 📫 Me Contacter :
 
-- **[collab@salim.link](collab@salim.link)**
+- **[collab@salim.link](mailto:collab@salim.link)**
 
 👉 Follow Me :
 
