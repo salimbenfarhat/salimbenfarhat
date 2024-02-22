@@ -18,7 +18,18 @@ Je suis un développeur web passionné par la Tech et la Finance. Je conçois de
 
 Grâce à mon agence digitale **[MARSWEB](https://marsweb.fr)**, je vous offre plusieurs services pour renforcer votre présence en ligne, de la création d'une identité visuelle à la réalisation d'un site web. Découvrez ma carte de visite digitale : **[SALIM.LINK](https://salim.link)**
 
-✨ Mes Projets :
+✨ Mes Projets - Formation :
+
+- **OC [Développeur d'application - JavaScript React] - P2 - BOOKI**  
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p2_booki) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p2_booki/)  
+- **OC [Développeur d'application - JavaScript React] - P3 - OHMYFOOD**  
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p3_ohmyfood) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p3_ohmyfood/)  
+- **OC [Développeur d'application - JavaScript React] - P4 - GAMEON**  
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p4_gameon) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p4_gameon/)  
+- **OC [Développeur d'application - JavaScript React] - P6 - FISHEYE**  
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p6_fisheye) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p6_fisheye/)    
+
+✨ Mes Projets Perso :
 
 - **[SBSB.FR](https://sbsb.fr)** (Mon Raccourcisseur URL Personnel)
 - **[HODL3R](https://hodl3r.com)** (Mon Blog)
