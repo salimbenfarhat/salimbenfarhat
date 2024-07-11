@@ -29,7 +29,9 @@ Grâce à mon agence digitale **[MARSWEB](https://marsweb.fr)**, je vous offre p
 - **OC [Développeur d'application - JavaScript React] - P6 - FISHEYE**  
 [REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p6_fisheye) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p6_fisheye/)
 - **OC [Développeur d'application - JavaScript React] - P9 - BILLED**  
-[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p9_billed) 
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p9_billed)    
+- **OC [Développeur d'application - JavaScript React] - P10 - LEARN@HOME**   
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p10_learn-at-home)  
 
 ✨ Mes Projets Perso :
 
