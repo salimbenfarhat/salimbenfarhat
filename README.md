@@ -26,8 +26,10 @@ Grâce à mon agence digitale **[MARSWEB](https://marsweb.fr)**, je vous offre p
 [REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p3_ohmyfood) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p3_ohmyfood/)  
 - **OC [Développeur d'application - JavaScript React] - P4 - GAMEON**  
 [REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p4_gameon) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p4_gameon/)  
-- **OC [Développeur d'application - JavaScript React] - P6 - FISHEYE**  
-[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p6_fisheye) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p6_fisheye/)
+- **OC [Développeur d'application - JavaScript React] - P6 - FISHEYE**
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p4_gameon) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p4_gameon/)  
+- **OC [Développeur d'application - JavaScript React] - P7 - LES PETITS PLATS** 
+[REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p7_lespetitsplats) [DEMO](https://salimbenfarhat.github.io/oc_da-jr_p7_lespetitsplats/)
 - **OC [Développeur d'application - JavaScript React] - P9 - BILLED**  
 [REPO GITHUB](https://github.com/salimbenfarhat/oc_da-jr_p9_billed)    
 - **OC [Développeur d'application - JavaScript React] - P10 - LEARN@HOME**   
