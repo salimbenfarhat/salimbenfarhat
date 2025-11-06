@@ -21,7 +21,17 @@ Découvrez ma carte de visite digitale : **[SALIM.LINK](https://salim.link)**
 
 ✨ [Mes Projets - Formation](./formations/PROJECTS.md)
 
-✨ [Mes Projets - Perso](./perso/PROJECTS.md)
+✨ [Mes Projets - Perso](./perso/PROJECTS.md)  
+
+---
+
+🧠 **Cybersécurité & CTFs**
+
+En parallèle du développement, je pratique la cybersécurité et participe régulièrement à des compétitions **CTF (Capture The Flag)**.  
+Retrouvez tous mes **writeups**, challenges résolus et projets sécurité sur mon second profil GitHub :  
+👉 **[alpha-du-centaure](https://github.com/alpha-du-centaure)**
+
+---
 
 💬 Je suis ouvert à toute suggestion de collaboration, n'hesitez pas à me contacter sur **[collab@salim.link](mailto:collab@salim.link)**.
 
