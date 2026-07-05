@@ -19,8 +19,6 @@ Je suis un développeur web passionné par la Tech et la Finance. Je conçois de
 Grâce à mon agence digitale **[MARSWEB](https://marsweb.fr)** et **[HUMAINEMENT](https://humainement.fr)**, je vous offre plusieurs services pour renforcer votre présence en ligne, de la création d'une identité visuelle à la réalisation d'un site web.   
 Découvrez ma carte de visite digitale : **[SALIM.LINK](https://salim.link)**
 
-✨ [Mes Projets - Formation](./formations/PROJECTS.md)
-
 ✨ [Mes Projets - Perso](./perso/PROJECTS.md)  
 
 ---
