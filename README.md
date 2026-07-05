@@ -36,11 +36,11 @@ Sous **SABLAB**, je développe plusieurs produits et initiatives autour du web, 
 
 En complément de l'écosystème, je développe des applications et SaaS destinés au grand public, aux indépendants et aux entreprises.
 
-| Produit | Description |
-|---|---|---|
-| **[Mon-Eau](https://github.com/salimbenfarhat/mon-eau)** | Suivi de consommation d'eau avec statistiques, objectifs et sensibilisation aux économies. |
-| **[Eventoo](https://github.com/salimbenfarhat/eventoo)** | Plateforme de gestion d'événements : création, organisation et gestion des participants. |
-| **[AmbuFirst](https://github.com/salimbenfarhat/AmbuFirst)** | Application en cours de développement. Plus d'informations à venir. |
+| Produit                                                                     | Description                                                                                                                             |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Mon-Eau](https://github.com/salimbenfarhat/mon-eau)**                    | Suivi de consommation d'eau avec statistiques, objectifs et sensibilisation aux économies.                                             |
+| **[Eventoo](https://github.com/salimbenfarhat/eventoo)**                    | Plateforme de gestion d'événements : création, organisation et gestion des participants.                                               |
+| **[AmbuFirst](https://github.com/salimbenfarhat/AmbuFirst)**                | Application en cours de développement. Plus d'informations à venir.                                                                    |
 
 [📂 Voir tous mes projets](./products/PROJECTS.md)
 
